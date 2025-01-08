@@ -1,0 +1,14 @@
+nav{
+    background-color: aqua;
+    display: flex;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin-left: 50px;
+}
+.n{
+    margin-left: 1000px;
+   
